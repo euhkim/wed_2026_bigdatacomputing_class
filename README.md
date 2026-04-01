@@ -1,3 +1,5 @@
 # wed_2026_bigdatacomputing_class
 Data Science : Data Anaysis &amp; machine Learning Model
-- Data Analysis : Numpy, matplotlib, ..
+- Data Analysis :
+  - Numpy, matplotlib, ..
+  - Pandas, seaborn, ...
